@@ -1,5 +1,8 @@
 package com.cleancode.coding.principles.exception.handling;
 
+import com.cleancode.coding.principles.exception.model.DeviceHandle;
+import com.cleancode.coding.principles.exception.model.DeviceRecord;
+
 import java.util.logging.Logger;
 
 public class ExceptionHandlingWellImplemented {

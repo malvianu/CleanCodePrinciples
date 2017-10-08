@@ -1,4 +1,4 @@
-package com.cleancode.coding.principles.exception.handling;
+package com.cleancode.coding.principles.exception.model;
 
 public class DeviceRecord {
     public String getStatus(){
